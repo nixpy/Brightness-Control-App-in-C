@@ -5,29 +5,6 @@
 
 
 using namespace std;
-//int WINAPI WinMain(
-//	HINSTANCE hInstance,      // handle to current instance
-//	HINSTANCE hPrevInstance,  // handle to previous instance
-//	LPSTR lpCmdLine,          // command line
-//	int nCmdShow              // show state
-//	)
-//{
-//	CgammaSetting GammaRamp;
-//
-//	//Make the screen darker:
-//	GammaRamp.SetBrightness(NULL, 128);
-//
-//	//Wait 5 seconds:
-//	//Sleep(5000);
-//	//while (true) {}
-//
-//	//Return back to normal:
-//	//GammaRamp.SetBrightness(NULL, 128);
-//	//Wait 5 seconds:
-//	//Sleep(5000);
-//
-//	return 0;
-//}
 
 int main()
 {
